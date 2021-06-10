@@ -10,7 +10,7 @@ class Dog:
         print("woof")
 
 
-Amy = Dog("Amy", "Golden")
+Amy = Dog("Amy", "Golden")  # Instantiation = when you assign an instance to a class/ object
 
 print(Amy.name)
 print(Amy.colour)
